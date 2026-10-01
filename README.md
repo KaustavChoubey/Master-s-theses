@@ -1,4 +1,4 @@
-# arw
+
 
 # Activated Random Walks
 
