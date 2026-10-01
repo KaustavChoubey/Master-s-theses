@@ -136,11 +136,8 @@ $$
 and the stronger bound
 
 $$
-l_h(\widetilde{\gamma})
->
-\log\left(1+e^{l_g(\gamma)}-e^{-l_g(\gamma)}\right).
+l_h(\widetilde{\gamma}) > \log\left(1+e^{l_g(\gamma)}-e^{-l_g(\gamma)}\right)
 $$
-
 ## Topics
 
 The thesis develops the mathematical background needed for this problem, including:
