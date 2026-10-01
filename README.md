@@ -108,3 +108,53 @@ Full references and attribution are provided in the essay.
 The complete PDF is available in this repository:
 
 **Activated Random Walks — Kaustav Choubey**
+
+# Brownian Loop Measure on Hyperbolic Surfaces
+
+This repository contains my **M2 Master's thesis**, *Brownian Loop Measure on Hyperbolic Pair of Pants*, completed at **Université Paris-Saclay**. The research was conducted at **IHÉS** under the supervision of **Prof. Yilin Wang**.
+
+The thesis explores connections between **probability, hyperbolic geometry, and conformal geometry**, using Brownian loop measure to study geodesic lengths on hyperbolic surfaces.
+
+## Main Problem
+
+Consider a hyperbolic pair of pants
+
+$$
+X=P(0,0,c),
+$$
+
+with two cusps and a closed geodesic boundary $\gamma$.
+
+After removing the boundary, the resulting surface admits a complete hyperbolic metric $h$ in the same conformal class. If $\widetilde{\gamma}$ denotes the closed geodesic corresponding to the removed boundary, the main question is how its new length $l_h(\widetilde{\gamma})$ compares with the original length $l_g(\gamma)$.
+
+Using **Brownian loop measure** and the geometry of a hyperbolic funnel, the thesis obtains
+
+$$
+l_h(\widetilde{\gamma})>l_g(\gamma),
+$$
+
+and the stronger bound
+
+$$
+l_h(\widetilde{\gamma})
+>
+\log\left(1+e^{l_g(\gamma)}-e^{-l_g(\gamma)}\right).
+$$
+
+## Topics
+
+The thesis develops the mathematical background needed for this problem, including:
+
+- Brownian loop measure
+- Hyperbolic geometry and hyperbolic surfaces
+- Hyperbolic pairs of pants and funnels
+- Riemann surfaces and the Uniformization Theorem
+- Fuchsian groups and closed geodesics
+
+The thesis was designed to be largely self-contained, with the necessary geometric and probabilistic tools developed along the way.
+
+## Thesis
+
+**Kaustav Choubey**  
+*M2 Mathématiques de l'aléatoire, Université Paris-Saclay*  
+Research conducted at **IHÉS**
